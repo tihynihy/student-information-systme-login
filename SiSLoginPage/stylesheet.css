@@ -1,0 +1,64 @@
+body{
+    background-image: url(image/blueWallpaper.jpg);
+    background-repeat: no-repeat;
+    
+    
+    
+}
+
+.logo{
+    height: 650px;
+    width: 500px;
+    margin-left: 35%;
+    background-color: white;
+    margin-top: 5%;
+    border-radius: 10px;
+    background-image: url(image/vectorWhite.jpg);
+    background-size: cover;
+   
+}
+
+#iusLogo{
+    padding-left: 32%;
+    padding-top: 10%;
+}
+
+.innerLogoContainer input[type=text]{
+    border-bottom-color: black;
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 10px;
+    height: 30px;
+    width: 250px;
+}
+
+
+.innerLogoContainer input[type=password]{
+    border-color: black;
+    margin-left: 25%;
+    margin-top: 5%;
+    border-radius: 10px;
+    border-radius: 10px;
+    height: 30px;
+    width: 250px;
+}
+
+.innerLogoContainer input[type=submit]{
+    margin-left: 37%;
+    margin-top: 5%;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 15px;
+    font-family: serif;
+    font-size: 15px;
+    font-style:normal;
+}
+
+#fbLogo{
+    margin-left: 44%;
+}
+
+
+
+
